@@ -1,0 +1,7 @@
+- Khởi tạo project: npm init -y
+- Cài typescript tại project: npm i --save-dev typescript
+- Cài typescript toàn máy: npm i -g typescript
+- Complie typescript thành javascript: tsc <Tên file>
+- Tự động complie file typescript thành file javacript: tsc -w <Tên file>
+- Tự động chạy file javacript khi có thay đổi: nodemon <Tên file> (Cần cài nodemon: npm i --save-dev nodemon)
+- Chạy file javacript: node <Tên file>
